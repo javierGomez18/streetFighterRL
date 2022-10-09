@@ -1,0 +1,2 @@
+model_checkpoint_path: "agent_1.h5f"
+all_model_checkpoint_paths: "agent_1.h5f"
